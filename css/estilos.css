@@ -139,7 +139,7 @@ body {
 	border-bottom: 2px solid #eeeeee;
 }
 .foto {
-	display: block;
+	 display: block;
     width: 150px;
     height: 150px;
     background: #eaeaea;
@@ -147,6 +147,10 @@ body {
     border-radius: 50%;
     overflow: hidden;
     border: 5px solid #cdc7c7;
+}
+.foto img {
+  display: block;
+  width: 100%;
 }
 h1 {
 	text-transform: uppercase;
